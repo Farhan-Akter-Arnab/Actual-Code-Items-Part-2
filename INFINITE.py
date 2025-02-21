@@ -1,4 +1,4 @@
-i = 720
-while i >= 500:
+i = 0
+while i >= 0:
     i = i + 1
     print('FOREVER RUNNING! THE CURRENT NUMBER IS ', i)
